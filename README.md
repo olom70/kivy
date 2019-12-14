@@ -1,1 +1,1 @@
-# kivy
+# kivy : hand over
